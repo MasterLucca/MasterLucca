@@ -15,7 +15,7 @@
 
 
 
-
+<h3 align="left">Connect With me: // Conecte-se Comigo </h3>
 </h3><p align="left" href="https://www.linkedin.com/in/lucas-bispo-alencar/" target="blank"><img align="center" src="https://i.ibb.co/rFszPGn/linkdin.png" alt="linkedin.com/in/lucas-bispo-alencar" height="60" width="60" /></a>
 <a href="https://www.instagram.com/lukkass_fran/" target="blank"><img align="center" src="https://i.ibb.co/CPH6k42/insta.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a>
 
