@@ -21,5 +21,3 @@
 
 
 
-
-Email: lucasdafranca67@gmail.com
