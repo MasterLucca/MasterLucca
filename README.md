@@ -14,8 +14,8 @@
 
 
 <h3 align="left">Connect with me: // Conecte-se comigo
-</h3><p align="left"><a href="https://www.linkedin.com/in/lucas-bispo-alencar/" target=> <img align="center" src="https://i.ibb.co/rFszPGn/linkdin.png" alt="https://www.linkedin.com/in/lucas-bispo-alencar/" height="60" width="60" /></a>
-<a href="https://www.instagram.com/lukkass_fran/" target="blank"><img align="center" src="https://i.ibb.co/CPH6k42/insta.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a>
+</h3><p align="left"><a href="https://www.linkedin.com/in/lucas-bispo-alencar/" target=> <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="https://www.linkedin.com/in/lucas-bispo-alencar/" height="40" width="40" /></a>
+<a href="https://www.instagram.com/lukkass_fran/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a>
 
 
 
