@@ -2,7 +2,8 @@
 
 
 
- Meu nome é Lucas tenho 19 anos, e sempre me interessei por tecnologia, Atualmente sou estudante no Instituto PROA, onde irei  receber formação como Desenvolvedor Java e Web. 
+ Meu nome é Lucas tenho 19 anos, e sempre me interessei por tecnologia, Atualmente sou estudante no Instituto PROA,
+ onde irei receber formação como Desenvolvedor Java e Web. 
 
 <!--Banner session-->
 <!-- <p align="center"><img src="https://imgur.com/jSBcQQe.png"/><br> -->
