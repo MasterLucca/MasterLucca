@@ -6,8 +6,8 @@
  onde irei receber formação como Desenvolvedor Java e Web. 
 
 
-<p align="center"><img src="https://i.imgur.com/uTk6zzB.png"<br>
- <
+<p align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br>
+ 
 
 
 
