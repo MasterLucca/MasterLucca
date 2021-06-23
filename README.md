@@ -6,16 +6,15 @@
 <table align='left'>
   <row>
     <td>
-     <!-- Card -->
-      <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-SP&layout=compact&theme=dark'>
-    </td>
-    <td>
-      <img height='150' src='https://github-readme-stats.vercel.app/api?username=Mrrobot-SP&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
+ <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-SP&layout=compact&theme=dark'>
+  /td><td>
+  <img height='150' src='https://github-readme-stats.vercel.app/api?username=Mrrobot-SP&show_icons=true&theme=dark'>
+  </td>
+ </row></table><br>
 
-<br>
+
+
+
 
 <h3 align="left">Languages and Tools: // Linguagens e Ferramentas 
 </h3><p align="left"  target=> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"  alt="javascript" width="40" height="40"/> <img  target="_blank">  
