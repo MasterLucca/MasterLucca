@@ -3,17 +3,6 @@
  Meu nome é Lucas tenho 19 anos, e sempre me interessei por tecnologia, Atualmente sou estudante no Instituto PROA,
  onde irei receber formação como Desenvolvedor Java Web.
  
-<table align='left'>
-  <row>
-    <td>
- <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-SP&layout=compact&theme=dark'>
-  /td><td>
-  <img height='150' src='https://github-readme-stats.vercel.app/api?username=Mrrobot-SP&show_icons=true&theme=dark'>
-  </td>
- </row></table><br>
-
-
-
 
 
 <h3 align="left">Languages and Tools: // Linguagens e Ferramentas 
@@ -32,6 +21,18 @@
 <a href="https://www.instagram.com/lukkass_fran/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a>
 
 
+ 
+ <table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-SP&layout=compact&theme=dark'>
+    </td>
+    <td>
+      <img height='150' src='https://github-readme-stats.vercel.app/api?username=Mrrobot-SP&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
 E-mail: lucasdafranca67@gmail.com
 
 
