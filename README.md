@@ -27,10 +27,7 @@
 <a href="https://www.instagram.com/lukkass_fran/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a><br>
 
 
-
-
- 
- <table align='left'>
+<table align='left'>
   <row>
     <td>
      <!-- Card -->
