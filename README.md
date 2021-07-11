@@ -26,7 +26,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009646413299/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" alt="https://www.facebook.com/profile.php?id=100009646413299/" height="40" width="40" /></a>
 <a href="https://www.instagram.com/lukkass_fran/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a><br>
 
- <a >Instagram icon by Icons8</a>
+
  
 <table align='left'>
   <row>
