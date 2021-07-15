@@ -3,7 +3,7 @@
  Meu nome é Lucas tenho 19 anos, e sempre me interessei por tecnologia, Atualmente sou estudante no Instituto PROA,
  onde irei receber formação como Desenvolvedor Java Web.
  
--💻 Estou trabalhando no [Projeto Demo Day do Instituto PROA](https://github.com/Proa-Group-3/Project-PCD)
+-💻 Estou trabalhando no [Projeto Demo Day do Instituto PROA](https://github.com/Mrrobot-SP/C-Helper-Plataforma)
 
 -📧 E-mail para contato: **Lucasfranca321@hotmail.com**
  
