@@ -5,7 +5,7 @@
  
 -💻 Estou trabalhando no [Projeto Demo Day do Instituto PROA](https://github.com/Mrrobot-SP/C-Helper-Plataforma)
 
--📧 E-mail para contato: **Lucasfranca321@hotmail.com**
+-📧 E-mail para contato: **lucasdafranca67@gmail.com**
  
 
 
