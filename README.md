@@ -36,6 +36,7 @@
 
  <div> 
  
+  
  ![Snake animation](https://github.com/Mrrobot-SP/Mrrobot-SP/blob/output/github-contribution-grid-snake.svg)
  
 </div>
