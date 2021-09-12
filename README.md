@@ -25,7 +25,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009646413299/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" alt="https://www.facebook.com/profile.php?id=100009646413299/" height="40" width="40" /></a>
 <a href="https://www.instagram.com/lukkass_fran/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a><br>
  
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/5d28609901a9644d3da6a5f54efdd3b3.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" />
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/5d28609901a9644d3da6a5f54efdd3b3.gif" align="right" width="100" height="100" border="0" alt="https://picasion.com/" />
 
 
 
