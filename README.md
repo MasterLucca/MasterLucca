@@ -3,7 +3,7 @@
  Meu nome é Lucas tenho 19 anos, e sempre me interessei por tecnologia, Atualmente sou 
  estudante de Análise e Desenvolvimento de Sistemas na UNIP.
  
--💻 Estou trabalhando no Projeto [Demo Day do Instituto PROA](https://github.com/Mrrobot-SP/C-Helper-Plataforma)
+-💻 Estou trabalhando no Projeto [Demo Day] do [Instituto PROA](https://github.com/Mrrobot-SP/C-Helper-Plataforma)
 
 -📧 E-mail para contato: **lucasdafranca67@gmail.com**
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/5d28609901a9644d3da6a5f54efdd3b3.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" />
