@@ -28,8 +28,7 @@
 <h3 align="left">Connect with me: // Conecte-se comigo
 </h3><p align="left"><a href="https://www.linkedin.com/in/lucas-bispo-alencar/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="https://www.linkedin.com/in/lucas-bispo-alencar/" height="40" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009646413299/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" alt="https://www.facebook.com/profile.php?id=100009646413299/" height="40" width="40" /></a>
-<a href="https://www.instagram.com/lukkass_fran/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="https://www.instagram.com/lukkass_fran/" height="40" width="40" /></a><br>
-</h3><p align="left"><a href="https://wa.me/+5511911807683" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" height="40" width="40" /></a>
+<a href="https://wa.me/+5511911807683" target="blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" height="40" width="40" /></a>
 
 
  
