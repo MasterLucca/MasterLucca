@@ -1,6 +1,6 @@
 # Opa, Prazer te conhecer  :smile: :v:
 
- Meu nome é Lucas tenho 19 anos, e sempre me interessei por tecnologia, Atualmente sou 
+ Meu nome é Lucas tenho 19 anos, e sou apaixonado por tecnologia, Atualmente sou 
  estudante de Análise e Desenvolvimento de Sistemas.
 
 
