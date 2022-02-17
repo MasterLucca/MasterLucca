@@ -25,7 +25,7 @@ Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de 
 
  
 <div align="center">
-  <a href="https://github.com/Mrrobot-SP">
+  <a href="https://github.com/Master-Lukaa">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Mrrobot-SP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-SP&layout=compact&langs_count=7&theme=dracula"/>
   </div>
@@ -33,7 +33,7 @@ Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de 
  <div> 
  
   
- ![Snake animation](https://github.com/Mrrobot-SP/Mrrobot-SP/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Mrrobot-SP/Master-Lukaa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
