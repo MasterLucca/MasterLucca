@@ -12,8 +12,6 @@ Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width = "40" height = "40"> 
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/nolan/48/git.png"/>
 
 
