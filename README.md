@@ -1,4 +1,4 @@
-# Opa, tudo bem?  U+1F60E
+# Opa, tudo bem? 😎
 
 Seja bem-vindo(a)! 
 
