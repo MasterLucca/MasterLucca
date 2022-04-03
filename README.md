@@ -1,4 +1,4 @@
-# Opa, Prazer te conhecer  :smile::v:
+# Opa, tudo bem? :smile::v:
 
 Seja bem-vindo(a)! 
 
