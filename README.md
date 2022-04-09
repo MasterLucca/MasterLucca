@@ -32,4 +32,3 @@ Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de 
  ![Snake animation](https://github.com/Master-Lukaa/Master-Lukaa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
