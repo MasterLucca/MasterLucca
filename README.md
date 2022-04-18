@@ -2,7 +2,7 @@
 
 Welcome!
 
-I am a development student and I am training myself to enter the job market, specifically technology in the development area, I have to really enjoy programming and learning about technology, because for me programming is having the possibility to create applications that can be useful and that helps people, and it's something that infects me a lot, as if by a good energy I believe that if we do something that will cultivate a better tomorrow and hope.
+I am a development student and I am training myself to enter the job market, specifically technology in the development area, I have to really enjoy programming and learning about technology, because for me programming is having the possibility to create applications that can be useful and that helps people, and it's something that infects me a lot, I am driven by an energy that believes that if we do something good for the world, we will be cultivating a better tomorrow.
 
 <h3 align="left">Languages and Tools: 
 </h3><p align="left"  target=> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"  alt="javascript" width="40" height="40"/> <img  target="_blank">  
