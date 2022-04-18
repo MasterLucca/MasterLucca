@@ -1,12 +1,10 @@
-# Opa, tudo bem? 😎
+# Hey are you ok? 😎
 
-Seja bem-vindo(a)! 
+Welcome!
 
-Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de trabalho, especificamente na área de desenvolvimento, tenho gostado muito de programar e aprender sobre tecnologia, por que para mim programação é ter a possibilidade de criar aplicações que possam ser úteis e que ajudam as pessoas, e isso é algo que me contagia bastante, sou movido por uma energia e esperança que acredita que se fizermos algo de bom para o mundo, estaremos cultivando um amanhã melhor.
+I am a development student and I am training myself to enter the job market, specifically technology in the development area, I have to really enjoy programming and learning about technology, because for me programming is having the possibility to create applications that can be useful and that helps people, and it's something that infects me a lot, as if by a good energy I believe that if we do something that will cultivate a better tomorrow and hope.
 
- 
-
-<h3 align="left">Languages and Tools: // Linguagens e Ferramentas 
+<h3 align="left">Languages and Tools: 
 </h3><p align="left"  target=> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"  alt="javascript" width="40" height="40"/> <img  target="_blank">  
 <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3.org / html / "target =" _blank "/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width = "40" height = "40"> 
@@ -16,7 +14,7 @@ Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de 
 
 
 
-<h3 align="left">Connect with me: // Conecte-se comigo
+<h3 align="left">Connect with me:
 </h3><p align="left"><a href="https://www.linkedin.com/in/lucas-bispo-alencar/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="https://www.linkedin.com/in/lucas-bispo-alencar/" height="40" width="40" /></a>
 <a href="https://wa.me/+5511942462950" target="blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" height="40" width="40" /></a>
 
