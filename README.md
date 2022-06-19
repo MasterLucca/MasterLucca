@@ -16,8 +16,8 @@ I am a development student and I am training myself to enter the job market, spe
 
 <h3 align="left">Connect with me:
 </h3><p align="left"><a href="https://www.linkedin.com/in/lucas-bispo-alencar/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="https://www.linkedin.com/in/lucas-bispo-alencar/" height="40" width="40" /></a>
-<a href="https://wa.me/+5511942462950" target="blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" height="40" width="40" /></a>
-<a href="mailto:lucasdafranca67@gmail.com" target="blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/undefined/external-gmail-social-media-justicon-lineal-color-justicon.png" height="38" width="38" /></a>
+<a href="https://wa.me/+5511942462950" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" height="40" width="40" /></a>
+<a href="mailto:lucasdafranca67@gmail.com" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/undefined/external-gmail-social-media-justicon-lineal-color-justicon.png" height="38" width="38" /></a>
 
 
  
