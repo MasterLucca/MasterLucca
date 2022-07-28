@@ -22,12 +22,12 @@ I am a development student and I am training myself to enter the job market, spe
 
  
 <div align="center">
-  <a href="https://github.com/Master-Lukaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master-Lukaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Lukaa&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/MasterLucca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasterLucca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLucca&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
- ![Snake animation](https://github.com/Master-Lukaa/Master-Lukaa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MasterLucca/MasterLucca/blob/output/github-contribution-grid-snake.svg)
  
 </div>
