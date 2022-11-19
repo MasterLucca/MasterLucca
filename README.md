@@ -1,8 +1,6 @@
-# Hey are you ok? 😎
+# Olá, seja bem-vindo (a)! 😎
 
-Welcome!
-
-I am a development student and I am training myself to enter the job market, specifically technology in the development area, I have to really enjoy programming and learning about technology, because for me programming is having the possibility to create applications that can be useful and that helps people, and it's something that infects me a lot, I am driven by an energy that believes that if we do something good for the world, we will be cultivating a better tomorrow.
+Sou um estudante de Tecnologia e Hacking e tenho gostado muito de  explorar esse universo, atualmente faço parte do time de Threat Intel(CTI) da EY no qual faço uso de poderosas ferramentas para combater e mitigar riscos cibernéticos 🥸
 
 <h3 align="left">Languages and Tools: 
 </h3><p align="left"  target=> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"  alt="javascript" width="40" height="40"/> <img  target="_blank">  
