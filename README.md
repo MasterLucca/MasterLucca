@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo (a)! 😎
+# Olá, seja bem-vindo (a)!
 
 Sou um estudante de Tecnologia e Hacking e tenho gostado muito de  explorar esse universo, atualmente faço parte do time de Threat Intel(CTI) da EY no qual faço uso de poderosas ferramentas para combater e mitigar riscos cibernéticos 🥸
 
