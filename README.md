@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo (a)!
 
-Sou um estudante de Tecnologia e Hacking e tenho gostado muito de  explorar esse universo, atualmente faço parte do time de Threat Intelligence da EY no qual faço uso de poderosas ferramentas para combater e mitigar riscos cibernéticos 🥸
+In Search Of Knowledge 🥸
 
 <h3 align="left">Languages and Tools: 
 </h3><p align="left"  target=> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"  alt="javascript" width="40" height="40"/> <img  target="_blank">  
