@@ -14,8 +14,6 @@ In Search Of Knowledge 🥸
 
 <h3 align="left">Contact with me:
 </h3><p align="left"><a href="https://www.linkedin.com/in/lucas-fran/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt=["https://www.linkedin.com/in/lu-f/"] (https://www.linkedin.com/in/lu-f/)" height="40" width="40" /></a>
-<a href="mailto:lucasdafranca67@gmail.com" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/undefined/external-gmail-social-media-justicon-lineal-color-justicon.png" height="38" width="38" /></a>
-
 
  
 <div align="center">
